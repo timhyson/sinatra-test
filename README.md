@@ -1,5 +1,7 @@
 # sinatra-test
 
+Just testing sintra
+
 - How to install this on your machine
 - Outline your approach
 - Describe any design patterns or principles you used
